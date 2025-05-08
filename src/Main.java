@@ -68,10 +68,6 @@ public class Main {
                     System.out.println("Puede solicitar la membresía premium.");
                 }
                 break;
-
-            default:
-                System.out.println("Opción no válida.");
-                break;
         }
     }
 }
